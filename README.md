@@ -1,6 +1,9 @@
 ### Hi there 👋
+###
 I'm emmo (Emmanuel Olubiyi);
+###
 witty right, lol :);
+###
 it's nice to meet you;
 <!--
 **lord-emmo/lord-emmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
